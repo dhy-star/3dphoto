@@ -14,7 +14,7 @@ body{
 .warp {
     position: relative;
     transform-style: preserve-3d;
-    margin: 250px auto;
+    margin: 400px auto;
     width: 150px;
     height: 200px;
     z-index: 10;
